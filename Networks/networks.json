@@ -1,0 +1,91 @@
+[
+  {
+    "Network Interface": "ProtonVPN",
+    "Addresses": [
+      {
+        "IP Address": "10.2.0.2",
+        "Is DNS Eligible": true
+      }
+    ]
+  },
+  {
+    "Network Interface": "Ethernet 2",
+    "Addresses": [
+      {
+        "IP Address": "169.254.123.29",
+        "Is DNS Eligible": false
+      }
+    ]
+  },
+  {
+    "Network Interface": "Ethernet",
+    "Addresses": [
+      {
+        "IP Address": "169.254.122.222",
+        "Is DNS Eligible": false
+      }
+    ]
+  },
+  {
+    "Network Interface": "Local Area Connection* 1",
+    "Addresses": [
+      {
+        "IP Address": "169.254.156.198",
+        "Is DNS Eligible": false
+      }
+    ]
+  },
+  {
+    "Network Interface": "Local Area Connection* 2",
+    "Addresses": [
+      {
+        "IP Address": "169.254.106.190",
+        "Is DNS Eligible": false
+      }
+    ]
+  },
+  {
+    "Network Interface": "Wi-Fi",
+    "Addresses": [
+      {
+        "IP Address": "192.168.100.5",
+        "Is DNS Eligible": true
+      }
+    ]
+  },
+  {
+    "Network Interface": "Bluetooth Network Connection",
+    "Addresses": [
+      {
+        "IP Address": "169.254.251.197",
+        "Is DNS Eligible": false
+      }
+    ]
+  },
+  {
+    "Network Interface": "Loopback Pseudo-Interface 1",
+    "Addresses": [
+      {
+        "IP Address": "::1",
+        "Is DNS Eligible": false
+      },
+      {
+        "IP Address": "127.0.0.1",
+        "Is DNS Eligible": false
+      }
+    ]
+  },
+  {
+    "Network Interface": "vEthernet (WSL (Hyper-V firewall))",
+    "Addresses": [
+      {
+        "IP Address": "fe80::2992:ce6c:95fd:714b%47",
+        "Is DNS Eligible": false
+      },
+      {
+        "IP Address": "172.27.240.1",
+        "Is DNS Eligible": true
+      }
+    ]
+  }
+]
